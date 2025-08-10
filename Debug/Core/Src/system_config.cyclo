@@ -1,0 +1,8 @@
+../Drivers/CMSIS/Include/core_cm4.h:1653:22:__NVIC_SetPriorityGrouping	1
+../Drivers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	2
+../Drivers/CMSIS/Include/core_cm4.h:1814:22:__NVIC_SetPriority	2
+../Drivers/CMSIS/Include/core_cm4.h:1861:26:NVIC_EncodePriority	2
+../Core/Src/system_config.c:30:6:SystemConfig_Init	1
+../Core/Src/system_config.c:53:6:SystemClock_Config	4
+../Core/Src/system_config.c:91:6:GPIO_Config	1
+../Core/Src/system_config.c:136:6:NVIC_Config	1

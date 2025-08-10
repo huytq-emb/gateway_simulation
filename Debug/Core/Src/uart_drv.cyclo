@@ -1,0 +1,10 @@
+../Core/Src/uart_drv.c:45:6:UART_Init	4
+../Core/Src/uart_drv.c:108:6:UART_Write	2
+../Core/Src/uart_drv.c:122:6:UART_WriteData	6
+../Core/Src/uart_drv.c:158:6:UART_Read	7
+../Core/Src/uart_drv.c:188:10:UART_GetTxFreeSpace	1
+../Core/Src/uart_drv.c:197:10:UART_GetRxCount	1
+../Core/Src/uart_drv.c:206:13:UART_GetLastError	1
+../Core/Src/uart_drv.c:214:6:UART_ClearError	1
+../Core/Src/uart_drv.c:225:6:UART_IRQHandler	10
+../Core/Src/uart_drv.c:284:13:UART_StartTransmission	3

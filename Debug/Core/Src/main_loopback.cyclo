@@ -1,0 +1,7 @@
+../Core/Src/main_loopback.c:84:5:main	5
+../Core/Src/main_loopback.c:156:13:MX_GPIO_Init	1
+../Core/Src/main_loopback.c:175:13:Gateway_Init	6
+../Core/Src/main_loopback.c:256:13:Gateway_SendTestFrames	25
+../Core/Src/main_loopback.c:348:13:Gateway_ProcessCanMessages	2
+../Core/Src/main_loopback.c:363:13:Gateway_PrintStatistics	2
+../Core/Src/main_loopback.c:391:6:Error_Handler	1

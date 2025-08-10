@@ -1,0 +1,7 @@
+../Core/Src/main_loopback.c:84:5:main	24	static
+../Core/Src/main_loopback.c:156:13:MX_GPIO_Init	4	static
+../Core/Src/main_loopback.c:175:13:Gateway_Init	16	static
+../Core/Src/main_loopback.c:256:13:Gateway_SendTestFrames	32	static
+../Core/Src/main_loopback.c:348:13:Gateway_ProcessCanMessages	32	static
+../Core/Src/main_loopback.c:363:13:Gateway_PrintStatistics	184	static
+../Core/Src/main_loopback.c:391:6:Error_Handler	4	static,ignoring_inline_asm

@@ -1,0 +1,5 @@
+../Core/Src/can_test_generator.c:34:6:GenerateEngineRpmFrame	24	static
+../Core/Src/can_test_generator.c:57:6:GenerateEngineTempFrame	16	static
+../Core/Src/can_test_generator.c:78:6:GenerateVehicleSpeedFrame	24	static
+../Core/Src/can_test_generator.c:101:6:CANTestGenerator_Run	16	static
+../Core/Src/can_test_generator.c:126:6:CANTestGenerator_Init	8	static

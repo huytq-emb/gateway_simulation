@@ -1,0 +1,10 @@
+../Core/Src/can_drv.c:40:6:CAN_Init	7
+../Core/Src/can_drv.c:93:6:CAN_Send	11
+../Core/Src/can_drv.c:132:6:CAN_Receive	3
+../Core/Src/can_drv.c:153:10:CAN_GetRxCount	1
+../Core/Src/can_drv.c:162:12:CAN_GetLastError	1
+../Core/Src/can_drv.c:170:6:CAN_ClearError	1
+../Core/Src/can_drv.c:179:6:CAN_IRQHandler	12
+../Core/Src/can_drv.c:244:13:CAN_ConfigureBitTiming	2
+../Core/Src/can_drv.c:271:13:CAN_ConfigureFilters	1
+../Core/Src/can_drv.c:296:13:CAN_WaitForTxMailbox	3
